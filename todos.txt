@@ -1,6 +1,5 @@
-do the laundry
-return the books to the library
-visit the museum
-print the pictures
-fix the floor
-buy grocery
+return the books to the library.
+visit the museum.
+print the pictures.
+fix the floor.
+clean the bag.
